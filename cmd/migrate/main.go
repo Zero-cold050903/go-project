@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Zero-cold050903/go-project/tree/master/cmd/api"
+	"github.com/Zero-cold050903/go-project/cmd/api"
 )
 
 func main() {
