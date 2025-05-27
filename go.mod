@@ -3,3 +3,8 @@ module github.com/Zero-cold050903/go-project
 go 1.24.2
 
 require github.com/gorilla/mux v1.8.1 // direct
+
+require (
+	filippo.io/edwards25519 v1.1.0 // indirect
+	github.com/go-sql-driver/mysql v1.9.2 // direct
+)
